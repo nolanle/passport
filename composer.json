@@ -1,6 +1,6 @@
 {
-    "name": "laravel/passport-foodies",
-    "description": "Laravel Passport provides OAuth2 server support to Foodies project.",
+    "name": "nolanle/passport-foodies",
+    "description": "Passport API provides OAuth2 server support to Foodies project.",
     "keywords": ["laravel", "passport", "oauth"],
     "license": "MIT",
     "support": {
